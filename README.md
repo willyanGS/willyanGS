@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willyanGS (Willyan G. de Souza)
 - 👀 I’m interested in becoming a Full-Stack Developer
 - 🌱 I’m currently studying in "CONNECT 2022 - Programmer Training Course" (at Biopark Educação - Toledo,PR,Brazil)
-- 💻 I’ve a little knowledge in: { C ; JavaScript ; MySQL ; Python ; HTML ; R(statistics) ; Pascal }
+- 💻 I’ve some knowledge in: { C ; JavaScript ; MySQL ; Python ; HTML ; R(statistics) ; Pascal }
 - 📫 How to reach me:
     - e-mail: eng.willyandesouza@hotmail.com
 
